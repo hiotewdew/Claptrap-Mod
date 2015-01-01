@@ -1,0 +1,16 @@
+[
+{
+  "modid": "claptrapmod",
+  "name": "Claptrap Mod",
+  "description": "",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["hiotewdew"],
+  "credits": "hiotewdew, for making the mod. techgeek1019, for having useful tutorials to walk me through mod making! :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
